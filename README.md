@@ -1,0 +1,1 @@
+# TC01.-Inferencia-Estad-stica-para-an-lisis-de-datos
